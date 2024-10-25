@@ -9,3 +9,8 @@ Proyek Flutter ini berfokus pada implementasi **Bottom Tab Navigation**, di mana
 
 ### Tujuan Proyek
 Proyek ini ditujukan untuk memperkenalkan cara membuat **Bottom Tab Navigation** di aplikasi Flutter. Navigasi dengan tab bawah sangat populer karena memberikan akses yang cepat dan konsisten ke halaman-halaman utama aplikasi. Pengguna dapat mempelajari cara menyesuaikan tab dengan ikon, teks, dan konten yang relevan untuk setiap halaman, menciptakan pengalaman pengguna yang lebih baik.
+
+# SHOWCASE
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/007.1.png" width="200px"/>
+</div>
